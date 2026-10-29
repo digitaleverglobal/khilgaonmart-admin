@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#f0f2f5"/>
+  <rect x="40" y="70" width="520" height="460" rx="28" fill="#ffffff" stroke="#e5e7eb"/>
+  <circle cx="110" cy="150" r="38" fill="#059669"/>
+  <text x="110" y="164" font-size="38" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-weight="700" fill="#fff" text-anchor="middle">ম</text>
+  <text x="168" y="145" font-size="28" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-weight="700" fill="#111827">মাহমুদুল করিম</text>
+  <text x="168" y="180" font-size="20" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#6b7280">সিলেট · ভেরিফায়েড ক্রেতা</text>
+  <text x="80" y="255" font-size="40" fill="#f59e0b" letter-spacing="6">★★★★★</text>
+  <text x="80" y="330" font-size="25" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#1f2937">দাম অনুযায়ী খুবই ভালো। আওয়াজ একদম কম,</text>
+  <text x="80" y="372" font-size="25" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" fill="#1f2937">বাচ্চাদের রুমে ব্যবহার করছি।</text>
+  <rect x="80" y="430" width="200" height="44" rx="22" fill="#ecfdf5"/>
+  <text x="180" y="459" font-size="20" font-family="Noto Sans Bengali, Hind Siliguri, sans-serif" font-weight="700" fill="#047857" text-anchor="middle">✓ অর্ডার সম্পন্ন</text>
+</svg>
